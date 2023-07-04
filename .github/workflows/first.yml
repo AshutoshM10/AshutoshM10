@@ -22,3 +22,6 @@ jobs:
       run: |
         docker tag hello-world:v1 ashutoshm10docker/hello-world:v1
         docker push ashutoshm10docker/hello-world:v1
+    - name: Run the Docker container
+      run: |
+        docker run -d --name hello-world -p 6969:8081 ashutoshm10docker/hello-world:v1         
