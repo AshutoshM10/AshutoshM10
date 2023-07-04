@@ -20,5 +20,6 @@ jobs:
         password: Ashutosh@123
     - name: Push the Docker image to Docker Hub
       run: |
+        docker commit hello-world:$(date +%s)
         docker tag hello-world:$(date +%s) ashutoshm10docker/hello-world:latest
         docker push Ashutoshm10docker/hello-world:latest
