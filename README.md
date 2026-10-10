@@ -30,21 +30,30 @@ Engineering        →  Go, Python, APIs, tooling, distributed systems
 Exploration        →  AI-assisted operations and infrastructure for model workloads
 ```
 
-## Tech I enjoy
+## Tools & technologies
 
 <p align="left">
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://helm.sh/"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" /></a>
-  <a href="https://argo-cd.readthedocs.io/"><img src="https://skillicons.dev/icons?i=argo" alt="Argo CD" /></a>
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/eks.svg" width="48" height="48" alt="Amazon EKS" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-aks.svg" width="48" height="48" alt="Azure AKS" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-gke.svg" width="48" height="48" alt="Google GKE" />
+  <img src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9&format=png" width="48" height="48" alt="Docker" />
+  <img src="https://img.icons8.com/?size=256&id=WncR8Bcg5nE9&format=png" width="48" height="48" alt="Terraform" />
+  <img src="https://icon.icepanel.io/Technology/svg/Helm.svg" width="48" height="48" alt="Helm" />
+  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" alt="Argo CD" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/ec2.svg" width="48" height="48" alt="Amazon EC2" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/s3.svg" width="48" height="48" alt="Amazon S3" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/rds.svg" width="48" height="48" alt="Amazon RDS" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/lambda.svg" width="48" height="48" alt="AWS Lambda" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/cloudwatch.svg" width="48" height="48" alt="Amazon CloudWatch" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/cloudtrail.svg" width="48" height="48" alt="AWS CloudTrail" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/route53.svg" width="48" height="48" alt="Amazon Route 53" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/iam.svg" width="48" height="48" alt="AWS IAM" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/vpc.svg" width="48" height="48" alt="Amazon VPC" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/Google%20Cloud.svg" width="48" height="48" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-devops.svg" width="48" height="48" alt="Azure DevOps" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/istio.png" width="48" height="48" alt="Istio" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/temporal.png" width="48" height="48" alt="Temporal" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/snyk.png" width="48" height="48" alt="Snyk" />
 </p>
 
 ## Currently learning
