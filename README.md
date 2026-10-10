@@ -30,16 +30,22 @@ Engineering        →  Go, Python, APIs, tooling, distributed systems
 Exploration        →  AI-assisted operations and infrastructure for model workloads
 ```
 
-## Featured projects
-
-- [SRE Atlas](https://github.com/AshutoshM10/sre-roadmap-kanban) — a persistent roadmap, Kanban board, and learning health engine for SRE and platform engineering.
-- [Kubernetes Investigator](https://github.com/AshutoshM10/ashutosh-k8s-investigator) — Go-based tooling for investigating Kubernetes systems.
-- [Image Optimizer](https://github.com/AshutoshM10/image-optimizer) — a Python utility for optimizing images.
-- [Opsfolio](https://github.com/AshutoshM10/opsfolio) — my engineering portfolio and notes on reliability, platforms, and infrastructure.
-
 ## Tech I enjoy
 
-`Kubernetes` `Docker` `AWS` `Terraform` `Helm` `Argo CD` `Go` `Python` `JavaScript` `Linux` `GitOps` `Observability`
+<p align="left">
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://helm.sh/"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" /></a>
+  <a href="https://argo-cd.readthedocs.io/"><img src="https://skillicons.dev/icons?i=argo" alt="Argo CD" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
 
 ## Currently learning
 
