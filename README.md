@@ -4,8 +4,7 @@
 
 ### Site Reliability Engineer II · Platform Engineering · Cloud Infrastructure
 
-I build reliable systems, improve developer workflows, and explore what comes
-next in infrastructure engineering.
+I build reliable systems, improve developer workflows, and explore what comes next in infrastructure engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AshutoshM10-181717?style=flat&logo=github)](https://github.com/AshutoshM10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutoshm10/)
@@ -16,7 +15,7 @@ next in infrastructure engineering.
 
 - 🚀 Site Reliability Engineer II at [Atlan](https://atlan.com/)
 - 🧭 Focused on Kubernetes, platform engineering, observability, and developer experience
-- 🛠️ Building with Go, Python, JavaScript, Terraform, AWS, and cloud-native tooling
+- 🛠️ Building with Go, Python, JavaScript, Terraform, AWS, Azure, GCP, and cloud-native tooling
 - 🌱 Learning more about distributed systems, AI infrastructure, and autonomous SRE
 - 📍 Based in Bhubaneswar, India
 
@@ -25,35 +24,48 @@ next in infrastructure engineering.
 ```text
 Reliability       →  incident response, automation, observability, production systems
 Platform           →  Kubernetes, GitOps, internal developer platforms, golden paths
-Infrastructure     →  AWS, Terraform, containers, networking, security
-Engineering        →  Go, Python, APIs, tooling, distributed systems
+Infrastructure     →  AWS, Azure, GCP, Terraform, containers, networking, security
+Engineering        →  Go, Python, Shell, APIs, tooling, distributed systems
 Exploration        →  AI-assisted operations and infrastructure for model workloads
 ```
 
 ## Tools & technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/eks.svg" width="48" height="48" alt="Amazon EKS" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/Google%20Cloud.svg" width="48" height="48" alt="Google Cloud" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-aks.svg" width="48" height="48" alt="Azure AKS" />
-  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-gke.svg" width="48" height="48" alt="Google GKE" />
-  <img src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9&format=png" width="48" height="48" alt="Docker" />
-  <img src="https://img.icons8.com/?size=256&id=WncR8Bcg5nE9&format=png" width="48" height="48" alt="Terraform" />
-  <img src="https://icon.icepanel.io/Technology/svg/Helm.svg" width="48" height="48" alt="Helm" />
-  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" alt="Argo CD" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/eks.svg" width="48" height="48" alt="Amazon EKS" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/ec2.svg" width="48" height="48" alt="Amazon EC2" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/s3.svg" width="48" height="48" alt="Amazon S3" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/rds.svg" width="48" height="48" alt="Amazon RDS" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/dynamodb.svg" width="48" height="48" alt="Amazon DynamoDB" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/elasticache.svg" width="48" height="48" alt="Amazon ElastiCache" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/lambda.svg" width="48" height="48" alt="AWS Lambda" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/cloudfront.svg" width="48" height="48" alt="Amazon CloudFront" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/cloudwatch.svg" width="48" height="48" alt="Amazon CloudWatch" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/cloudtrail.svg" width="48" height="48" alt="AWS CloudTrail" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/route53.svg" width="48" height="48" alt="Amazon Route 53" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/iam.svg" width="48" height="48" alt="AWS IAM" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/kms.svg" width="48" height="48" alt="AWS KMS" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/vpc.svg" width="48" height="48" alt="Amazon VPC" />
-  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/Google%20Cloud.svg" width="48" height="48" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/codepipeline.svg" width="48" height="48" alt="AWS CodePipeline" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/codebuild.svg" width="48" height="48" alt="AWS CodeBuild" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/codedeploy.svg" width="48" height="48" alt="AWS CodeDeploy" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-devops.svg" width="48" height="48" alt="Azure DevOps" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-blob-storage.png" width="48" height="48" alt="Azure Blob Storage" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-keyvault.svg" width="48" height="48" alt="Azure Key Vault" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-monitor.svg" width="48" height="48" alt="Azure Monitor" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/azure-sql.svg" width="48" height="48" alt="Azure SQL" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-compute.svg" width="48" height="48" alt="Google Compute Engine" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-gke.svg" width="48" height="48" alt="Google Kubernetes Engine" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-sql.svg" width="48" height="48" alt="Cloud SQL" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-storage.svg" width="48" height="48" alt="Google Cloud Storage" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-functions.svg" width="48" height="48" alt="Cloud Functions" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/gcp-pubsub.svg" width="48" height="48" alt="Pub/Sub" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/istio.png" width="48" height="48" alt="Istio" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/temporal.png" width="48" height="48" alt="Temporal" />
   <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/snyk.png" width="48" height="48" alt="Snyk" />
+  <img src="https://raw.githubusercontent.com/AshutoshM10/opsfolio/main/public/incident-icon-seeklogo.png" width="48" height="48" alt="Incident management" />
 </p>
 
 ## Currently learning
